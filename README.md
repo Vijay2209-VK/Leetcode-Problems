@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
