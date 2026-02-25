@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3379-transformed-array](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
