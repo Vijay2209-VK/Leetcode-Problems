@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0146-lru-cache) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String
 |  |
@@ -88,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
