@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/0146-lru-cache) |
+| [1622-fancy-sequence](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Vijay2209-VK/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
